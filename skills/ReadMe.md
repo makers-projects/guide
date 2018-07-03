@@ -1,5 +1,25 @@
 # Developer Skills
 
+## Overview
+
+There are various different ways to divide skills. Here, we've conceived of them in 6 broad categories:
+
+Key skills
+- Core skills
+- Code literacy
+- Problem solving
+
+Development skills
+- Technical understanding
+- Technical application
+- Technical knowledge
+
+An explanation of each of these sections is below. Where should you start, though? 
+
+The key skills are labelled such because, if you can nail them, then the development skills will come with time. Conversely, if you're struggling with problem solving or code literacy, then time spent trying to learn another language is likely to be wasted. 
+
+
+## Skills in detail
 
 ### Core Skills
 
@@ -30,6 +50,9 @@ Tools & Resources
 - Can you identify the root cause of a problem?
 - Do you have a systematic approach for solving problems?
 - How good are you at unblocking yourself?
+
+Tools & Resources
+- [Problem solving skills resources](/makers-projects/skills/problem-solving)
 
 ### Technical Understanding
 - Can you effectively map the relationships between different elements of a system?
