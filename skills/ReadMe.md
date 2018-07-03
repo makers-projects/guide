@@ -29,7 +29,8 @@ The key skills are labelled such because, if you can nail them, then the develop
 - Goal focus
 
 Tools & Resources
-
+- [Learning at Makers](https://github.com/makersacademy/course/blob/master/pills/learning_at_makers.md)
+- [Bloom's Taxonomy](https://github.com/makersacademy/course/blob/master/pills/blooms_taxonomy.md)
 
 ### Code Literacy 
 
@@ -53,6 +54,8 @@ Tools & Resources
 
 Tools & Resources
 - [Problem solving skills resources](/makers-projects/skills/problem-solving)
+- [Debugging](https://github.com/makersacademy/course/blob/master/pills/debugging.md)
+- [Escalation Process](https://github.com/makersacademy/course/blob/master/pills/escalation_process.md)
 
 ### Technical Understanding
 - Can you effectively map the relationships between different elements of a system?
