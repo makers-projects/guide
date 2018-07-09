@@ -6,6 +6,58 @@ In many respects, this is what a developer is. It's also what distinguishes a so
 
 More pertinently, this is a key graduate skill because, as you leave the learning environment of Makers and start to progress through your career, you'll get less and less help solving your own problems and more and more you'll become the person expected to solve problems for other people. If you're still job-hunting, you may still have some access to coach time, but it's likely to be infrequent and less focussed. Being blocked for hours because your debugging skills aren't up to scratch is going to massively impact on your learning time.
 
+## Types of problem
+
+### I don't know what the problem is
+If you're not sure you can articulate the problem and you feel like 'I don't know you what to do', then the first step to solving your problem is to articulate the problem.
+
+### I don't have the understand the problem context
+If you're trying to solve a problem but you feel like you don't understand the problem area, for example you want to build and API but you're not really sure what an API is.
+
+### I don't know what to do next
+You want to build something but you're not sure what to start e.g. I want to build a social media app with a news feed, but I'm not sure what the first step is.
+
+### I don't know how to do something
+You want to build something and you're pretty sure you know what the next step is, but you don't know how to do that.
+
+### I'm not sure if I am doing the right thing
+You've got a plan of action but you are worried that it is the wrong thing to do and you are wasting your time.
+
+### There is a bug but I don't know where it is
+You have written some code that is not working and you're not sure where to look for the problem.
+
+### My code is behaving in a way that is different from my expectations
+You have written some code that you are sure is write but when you run it isn't working in the way that you expect.
+
+## Problem solving techniques
+
+### Read the error
+Good error messages are helpful and will tell you exactly what the problem is. 
+
+### Clarify
+Make sure that you understand the problem.
+
+### Simplify
+Try to break the problem down into something more manageable.
+
+### Follow the flow/Tighten the loop
+Follow the flow of execution of the problem to find out where the issue is occurring.
+
+### Get visibility
+Log around the problem area in order to ascertain that all of your assumptions are, in fact, valid.
+
+### Diagram
+Diagram the problem. Translating the problem to a visual representation can be a great way to check if you have understood the problem.
+
+### Isolate
+If you have something that is hard to debug because of all the things going on around it, try and reproduce the problem in an isolated environment with minimal context.
+
+### Step back
+Take a break!
+
+### Search
+Look for answers online.
+
 ## Recording your problem solving process
 
 ### 1) What am I trying to do?
