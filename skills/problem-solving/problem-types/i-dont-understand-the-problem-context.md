@@ -1,5 +1,7 @@
 #Problem: I don't understand the problem context
 
+A key virtue here is *patience*. Taking the time to explore the problem and read documents carefully.
+
 ## Examples
 My database is not in the state I expect it to be. I want to debug but I don't understand how migrations work.
 I am trying to write a component in React but it is not appearing on the page. I don't really understand how the React app works.
@@ -7,25 +9,32 @@ I am trying to write a component in React but it is not appearing on the page. I
 ## Techniques
 The techniques below help you to build a better mental model of the problem space, either through archaeology or visualisation. A good process to follow might be:
 
-(Flow diagram)
+![How to get better understanding of a problem context](problem-context-flow.jpg "Problem Context Flow")
 
-### Write some code!
+### Define the problem
+"I don't know how React works" isn't a good problem statement - it doesn't state what you are trying to do. You should always have an end goal in mind, because if you don't you have no way of knowing when you have succeeded. "I don't know how to build a web form with React" is better, because you know that your problem is resolved either when (a) you have successfully built a web form with React of (b) demonstrated that this is not possible.
 
 ### Map the problem
-Mapping the problem involves producing a representation of it. This usually involves diagramming and language. At the end of this process, you should have a model, however high level, of the problem area. You should then be able to identify which bits of the model you think you understand and which bits of the model require more research.
+Mapping the problem means producing a representation of it. This usually involves diagramming and language. At the end of this process, you should have a model, however high level, of the problem area.
+
+### Identify areas of uncertainty
+From your map, you should then be able to identify which bits of the model you think you understand and which bits of the model require more research. Ideally, you have a list of questions, e.g.:
+- React uses JSX, but I don't know what that is
+- I don't know how to set up a React project
+
+### Reduce the scope of the problem
+Trying to solve everything at once is a recipe for confusion. Pick one of your questions above and attack that, e.g. focus on "I don't know how to set up a React project".
+
+### Run an experiment
+Applied analytical skills are always going to give you a better understanding of a specific problem area than reading about it. For example, you could read about setting up a React project or you could just go ahead and do it. Define a definition for success - in this case, it's probably "Hello world" on a page - and have a go.
+
+At the end of the process, if you have succeeded, you should have a better understanding of this particular bit of your problem. If you don't, then ask yourself why - for example, if you just used the script "create-react-app" then it probably did all of the setup for you and you didn't really get a chance to set up the project yourself. Was your goal just to get a React project up and running, or was it to understand what the components of a React project are? If the latter, revisit your experiment constraints - set up a react app without using the create-react-app script.  
 
 ### Research
-It's better to research a problem once you've already taken on the step of mapping it out - and once you've done some research, try to map it out again. After you've mapped out the problem, trying writing a list of questions that you want to answer and after you have answered each one, update your model.
-
-### Reduce scope
-NB: sometimes only possible once you've done the above
-
-"I don't know how X works" often isn't a good problem definition. For example, many students often express a desire to understand "How spring works" or "How React works" but the scope of these questions is pretty big. Better questions are "How does Spring route requests to the controller?" or "How does JSX get compiled in a React app?".
-
-The more specific the scope of the question, the easier it will be for you to map and the easier it will be for you to look for answers.
+Your friend Google.
 
 ### Pair with somebody
-Working on something with somebody else can help you develop a shared understanding of a problem. 
+Working on something with somebody else can help you develop a shared understanding of a problem.
 
-### Whiteboard session
-Documenting a shared understanding of a problem space with a peer or a coach can be a really powerful way of solidifying a mental model.
+### Ask for help
+If you can demonstrate that you've done some or all of the above, find a coach and see if they can help unblock your understanding. If you've talked to your peers and they haven't been able to help then it's likely this is a problem that others face as well, so gather anybody else who might be interested in a whiteboard session.  
