@@ -8,10 +8,7 @@ More pertinently, this is a key graduate skill because, as you leave the learnin
 
 ## Types of problem
 
-### I don't know what the problem is
-If you're not sure you can articulate the problem and you feel like 'I don't know you what to do', then the first step to solving your problem is to articulate the problem.
-
-### I don't have the understand the problem context
+### I don't understand the problem context
 If you're trying to solve a problem but you feel like you don't understand the problem area, for example you want to build and API but you're not really sure what an API is.
 
 ### I don't know what to do next
@@ -29,10 +26,13 @@ You have written some code that is not working and you're not sure where to look
 ### My code is behaving in a way that is different from my expectations
 You have written some code that you are sure is write but when you run it isn't working in the way that you expect.
 
+### I don't know what the problem is
+If you're not sure you can articulate the problem and you feel like 'I don't know you what to do', then the first step to solving your problem is to articulate the problem.
+
 ## Problem solving techniques
 
 ### Read the error
-Good error messages are helpful and will tell you exactly what the problem is. 
+Good error messages are helpful and will tell you exactly what the problem is.
 
 ### Clarify
 Make sure that you understand the problem.
