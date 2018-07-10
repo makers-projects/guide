@@ -1,4 +1,4 @@
-#Problem: I don't understand the problem context
+# Problem: I don't understand the problem context
 
 A key virtue here is *patience*. Taking the time to explore the problem and read documents carefully.
 
@@ -9,11 +9,11 @@ I am trying to write a component in React but it is not appearing on the page. I
 ## Techniques
 The techniques below help you to build a better mental model of the problem space, either through archaeology or visualisation. A good process to follow might be:
 
-![How to get better understanding of a problem context](problem-context-flow.jpg "Problem Context Flow")
+![How to get better understanding of a problem context](images/problem-context-flow.jpg "Problem Context Flow")
 
 ### Define the problem
 
-![How to get a better problem definition](define-problem-flow.jpg "Defining Problem Flow")
+![How to get a better problem definition](images/define-problem-flow.jpg "Defining Problem Flow")
 
 #### Define the problem
 "I don't know how React works" isn't a good problem statement - it doesn't state what you are trying to do. You should always have an end goal in mind, because if you don't you have no way of knowing when you have succeeded. "I don't know how to build a web form with React" is better, because you know that your problem is resolved either when (a) you have successfully built a web form with React of (b) demonstrated that this is not possible.
@@ -31,7 +31,7 @@ Trying to solve everything at once is a recipe for confusion. Pick one of your q
 
 ### Explore the problem
 
-![How to explore a problem to gain understanding and achieve success](explore-problem-flow.jpg "Exploring problem flow")
+![How to explore a problem to gain understanding and achieve success](images/explore-problem-flow.jpg "Exploring problem flow")
 
 
 #### Run an experiment
@@ -46,7 +46,7 @@ Your friend Google.
 
 ### Get Help
 
-![How to get help with a problem you can't solve](get-help-flow.jpg "Get help flow")
+![How to get help with a problem you can't solve](images/ask-for-help-flow.jpg "Get help flow")
 
 #### Pair with somebody
 Working on something with somebody else can help you develop a shared understanding of a problem.
